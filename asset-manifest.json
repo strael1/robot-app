@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/robot-app/static/css/main.efa08f0e.chunk.css",
+    "main.js": "/robot-app/static/js/main.b1fc72f0.chunk.js",
+    "main.js.map": "/robot-app/static/js/main.b1fc72f0.chunk.js.map",
+    "runtime-main.js": "/robot-app/static/js/runtime-main.61ed8b07.js",
+    "runtime-main.js.map": "/robot-app/static/js/runtime-main.61ed8b07.js.map",
+    "static/js/2.57610360.chunk.js": "/robot-app/static/js/2.57610360.chunk.js",
+    "static/js/2.57610360.chunk.js.map": "/robot-app/static/js/2.57610360.chunk.js.map",
+    "static/js/3.af88f360.chunk.js": "/robot-app/static/js/3.af88f360.chunk.js",
+    "static/js/3.af88f360.chunk.js.map": "/robot-app/static/js/3.af88f360.chunk.js.map",
+    "index.html": "/robot-app/index.html",
+    "static/css/main.efa08f0e.chunk.css.map": "/robot-app/static/css/main.efa08f0e.chunk.css.map",
+    "static/js/2.57610360.chunk.js.LICENSE.txt": "/robot-app/static/js/2.57610360.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/robot-app/static/media/SEGA.8a619f32.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.61ed8b07.js",
+    "static/js/2.57610360.chunk.js",
+    "static/css/main.efa08f0e.chunk.css",
+    "static/js/main.b1fc72f0.chunk.js"
+  ]
+}
